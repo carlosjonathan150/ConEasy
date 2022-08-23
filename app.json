@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "ConEasy",
+    "slug": "ConEasy",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
